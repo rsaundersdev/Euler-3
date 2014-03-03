@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393811853 source:c:\users\ryan\desktop\programming\c\projecteuler 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
