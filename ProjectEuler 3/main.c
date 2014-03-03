@@ -8,7 +8,7 @@ int prime;
 int i;
 
 int main(){
-    printf("%d\n", number);
+    printf("%llu\n", number);//%llu is used to print an unsigned long long
     for(i = 2; i < number/2; i++){
         printf("%d\n", i);
         prime = 1;
